@@ -1,2 +1,5 @@
 # deep_learning_self
-Self trying out deep learning stuff
+Trying out deep learning on my own.
+
+## Projects
+1. EMNIST
